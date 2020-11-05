@@ -5,4 +5,4 @@ This is my headline
 ## This is a smaller headline 
 * this is a list item
 
-![] (bh.jpg)
+![](bh.jpg)
